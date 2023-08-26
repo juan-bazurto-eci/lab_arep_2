@@ -53,13 +53,14 @@ Accedemos a la siguiente URL
 
 El servidor responde a todas las imagenes de la carpeta public
 
-![](.ReadmeImages/carpeta.png)
+![src/main/resources/public/](ReadmeImages/carpeta.png)
 
 #### Test
-![](.ReadmeImages/escuelaing.png)
-![](.ReadmeImages/nala.png)
-![](.ReadmeImages/profe.png)
-![](.ReadmeImages/sistemas.png)
+
+![http://localhost:35000/escuelaing.png](ReadmeImages/escuelaing.png)
+![http://localhost:35000/nala.jpg](ReadmeImages/nala.png)
+![http://localhost:35000/profe.jpg](ReadmeImages/profe.png)
+![http://localhost:35000/sistemas.jpg](ReadmeImages/sistemas.png)
 
 ## Built With
 * [Java](https://www.java.com/) - Lenguaje de programación principal
