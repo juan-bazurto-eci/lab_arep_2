@@ -96,7 +96,7 @@ public class HttpServer {
     }
 
     /**
-     * Método para obtener un archivo estático instring formato
+     * Método para obtener un archivo estático
      *
      * @param route String de la ruta para buscar fichero
      * @return los datos del fichero en un String
